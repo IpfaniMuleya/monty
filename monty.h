@@ -66,5 +66,6 @@ void pop(stack_t **head, unsigned int counter);
 void swap(stack_t **head, unsigned int counter);
 void _add(stack_t **head, unsigned int counter);
 void _nop(stack_t **head, unsigned int counter);
+void _sub(stack_t **head, unsigned int counter);
 
 #endif /* MONTY_H */
